@@ -11,6 +11,6 @@
 | Chamged the README file                  | git commit -m 'Final redme commit , git push origin develop |
 
 Other git commands which I have used for utility purpose
-Checking git installation - git --versoin
+Checking git installation - 'git --versoin'
 Git log check - git log
 Git status check - git status - To check untracked files
